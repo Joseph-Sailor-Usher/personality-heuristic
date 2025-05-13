@@ -1,7 +1,7 @@
 # What. Why. Ought.
 The driving algorithm of volition is the question "what" meaning duck-typing and object recognizing in all of our precepts and memories (sensation, language, image, video, game) and "why" meaning the scientific method acting on all our configurations of "what"s in service of our preferences. "Why" can take us back into causal discovery, and also forwards into ethics and personality formation through algorithms similar to STRIPS, G.O.A.P., and the work of culture to share knowledge.
 
-My intention here is to lay out a model which will only be improved on. In the simplest formation, I am saying that having "ought"s requires "what"s, "why"s. To algorithmically generate "ought"s, preferences, requires "what"s reality-division algorithms for object conception, recognition and simulation. It also requires "why"s causal discovery, ramification algorithms to apply hypotheses to generate predicted outcomes. These three areas give rise to AGI. The perception algorithms give us objects with attributes and classes. The explanation algorithms give us hypotheses and subjective story-telling. And the ethical algorithms take perception and theory and give us algebraic expressions of generalized tendencies of change in state variables over time and what that means in the larger context. Our "ought"s are a key feature of AGI because it is what is in humans prompting LLMs that keeps them going toward actions that tend toward their preferences and aligned goals.
+My intention here is to lay out a model which will only be improved on. In the simplest formation, I am saying that having "ought"s requires "what"s, "why"s. To algorithmically generate "ought"s, preferences, requires "what"s reality-division algorithms for object conception, recognition and simulation. It also requires "why"s causal discovery, ramification algorithms to apply hypotheses to generate predicted outcomes. The perception algorithms give us objects with attributes and classes. The explanation algorithms give us hypotheses and subjective story-telling. And the ethical algorithms take perception and theory and give us algebraic expressions of generalized tendencies of change in state variables over time and what that means in the larger context. Our "ought"s are what give us a personality heuristic in order to designate goals for states.
 
 In a multiagent collaborative environment, agents capable of "ought" can guide the planning, similar to a creative director.
 
@@ -18,7 +18,7 @@ What. Why. Ought.
 
 ## Summary
 
-This document proposes a framework for Artificial General Intelligence (AGI) based on three core cognitive functions:
+This document proposes a framework for Artificial Intelligence agents based on three core cognitive functions:
 
 - **What** – Object recognition and conceptualization from experience.
 - **Why** – Causal discovery and hypothesis testing via the scientific method.
@@ -55,9 +55,9 @@ Avoid deep discharge (battery dying).
 Avoid overcharging (battery degradation).
 Preferences serve as heuristics guiding action selection, plan generation, and evaluation. When evaluating options, the agent selects actions aligned with interpretable, flexible expressions of its values.
 
-## A Unified Framework for AGI
+## A Unified Framework for agents with personality heuristics
 
-This tri-layered loop enables AGI agents to:
+This tri-layered loop enables agents to:
 
 Perceive, name, and model the world.
 Form and refine hypotheses about causes and outcomes.
