@@ -12,3 +12,59 @@ I propose an algorithm capable of assigning attributes generally and formally to
 Since all of these preferences are in natural language and algebraic expressions tied to the "why"s that were used to create them, this entire algorithm is interpretable. These three areas of study will be the building blocks of AGI. 
 Perception. Explanation. Preference.
 What. Why. Ought.
+
+# ChatGPT's version
+# The Algorithm of Volition: What, Why, and Ought
+
+## Summary
+
+This document proposes a framework for Artificial General Intelligence (AGI) based on three core cognitive functions:
+
+- **What** – Object recognition and conceptualization from experience.
+- **Why** – Causal discovery and hypothesis testing via the scientific method.
+- **Ought** – Preference formation through algebraic expressions of state variables, enabling goal setting and planning.
+
+These processes together define a **volitional agent**: one capable of perception, explanation, and value-driven action. We call this emergent framework **Personality Heuristic Refinement**.
+
+---
+
+## The Core Algorithm
+
+### 1. **What**: Perception and Classification
+
+The “What” layer answers the fundamental question of identity through duck-typing and object recognition across modalities—language, image, sensation, memory. It parses experience into **objects with attributes and classes**, forming the basis for all further reasoning.
+
+### 2. **Why**: Causal Discovery and Explanation
+
+The “Why” layer acts as a recursive scientific method. It discovers causality, constructs hypotheses, and applies these to imagined or remembered scenarios. We encode causal relationships as **domain definitions**—flexible representations that can plug into planning systems (e.g. STRIPS, GOAP).
+
+> A prototype causal system uses atemporal, deterministic rules where one cause leads to many effects. These simplified domains are ideal for computational exploration.
+
+By treating hypotheses as testable patterns rather than fixed structures, we gain the ability to reason across diverse temporal and logical frameworks—past, future, imagined, and symbolic.
+
+### 3. **Ought**: Preferences, Ethics, and Personality
+
+The “Ought” layer expresses values as **algebraic preferences over state variables**. These are not hard-coded goals, but dynamic expressions shaped by context, perception, and causal understanding. For example:
+
+```plaintext
+(20 < battery < 80)
+```
+This single preference encodes both:
+
+Avoid deep discharge (battery dying).
+Avoid overcharging (battery degradation).
+Preferences serve as heuristics guiding action selection, plan generation, and evaluation. When evaluating options, the agent selects actions aligned with interpretable, flexible expressions of its values.
+
+## A Unified Framework for AGI
+
+This tri-layered loop enables AGI agents to:
+
+Perceive, name, and model the world.
+Form and refine hypotheses about causes and outcomes.
+Express goals and values in structured, testable form.
+In collaborative environments, such agents can serve as ethical guides, planners, and directors, shaping actions in alignment with collective intent.
+
+This framework is open, interpretable, and extensible. It lays the groundwork for a new field:
+
+Personality Heuristic Refinement Algorithms – The architecture of agentic minds.
+
